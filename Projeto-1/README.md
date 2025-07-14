@@ -1,4 +1,4 @@
-# Análise Preditiva de Desempenho Escolar e a Relação com Games
+# 📊 Análise Preditiva de Desempenho Escolar e a Relação com Games
 
 ## Contexto do Projeto
 
